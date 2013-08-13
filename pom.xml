@@ -10,7 +10,7 @@
 	
 	<groupId>nz.ac.auckland.composite</groupId>
 	<artifactId>composite-servlet</artifactId>
-	<version>1.2-SNAPSHOT</version>
+	<version>1.2</version>
 	<packaging>jar</packaging>
 	<name>composite-servlet</name>
 	
@@ -22,7 +22,8 @@
 		<url>https://github.com/uoa-group-applications/composite-servlet</url>
 		<connection>scm:git:https://github.com/uoa-group-applications/composite-servlet.git</connection>
 		<developerConnection>scm:git:git@github.com:uoa-group-applications/composite-servlet.git</developerConnection>
-	</scm>
+	  <tag>composite-servlet-1.2</tag>
+  </scm>
 	
 	<dependencies>
 	
